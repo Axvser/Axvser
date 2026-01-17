@@ -11,7 +11,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axvser&theme=github" width="99%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axvser&theme=github" width="98.5%" />
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axvser&theme=github" width="49%" />
