@@ -61,7 +61,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 </p>
 
 <!-- Grid-Snake -->
-<p align="center" width="90%">
+<p align="center" width="98%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
@@ -71,7 +71,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 
 <!-- Table -->
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axvser&theme=github_dark" width="84%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axvser&theme=github_dark" width="42%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Axvser&theme=github_dark" width="42%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axvser&theme=github_dark" width="98%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axvser&theme=github_dark" width="49%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Axvser&theme=github_dark" width="49%"/>
 </div>
