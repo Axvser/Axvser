@@ -59,8 +59,3 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;Developer+from+China;Passionate+about+Open+Source;Let's+Connect+and+Collaborate" alt="Hello World" title="Hello World"/>
   </p>
 </p>
-
-<!-- Table -->
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axvser&theme=github_dark" width="98%"/>
-</div>
